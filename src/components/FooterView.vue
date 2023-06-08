@@ -29,7 +29,7 @@
                 </div>
                 <div class="email">
                     <i class="fa-solid fa-envelope"></i>
-                    Email@example.com
+                    <a href="mailto:azzam.h.alkhaldi@gmail.com">azzam.h.alkhaldi@gmail.com</a>
                 </div>
             </div>
             <div class="flex-colmun">

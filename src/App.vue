@@ -33,9 +33,7 @@ import MobileNav from './components/MobileNav.vue'
 </script>
 <style>
 
-* {
-  flex-wrap: wrap;
-}
+
 .open {
     display: flex;
 }
@@ -83,6 +81,11 @@ nav a.router-link-exact-active {
   color: #42b983;
 }
 
-
+@media screen and (max-width: 990px) {
+  * {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+}
 
 </style>
